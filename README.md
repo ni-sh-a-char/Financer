@@ -11,7 +11,7 @@
 * Terminal
 * Docker Hub
 # Terminal
-# Install Python your System.
+# Install Python on your System.
 * Open terminal in the folder where you have pull the project.
 * Run "pip install -r requirements.txt" in root folder
 * Type: "streamlit run Financer.py"
