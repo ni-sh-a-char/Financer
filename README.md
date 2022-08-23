@@ -18,5 +18,5 @@
 # Docker Hub
 * Install Docker in the System
 * Install Docker Hub in the System
-* [Docker Image Link](https://hub.docker.com/r/piyushmishradocker/)
+* [Docker Image Link](https://hub.docker.com/repository/docker/piyushmishradocker/financer)
 * In the terminal type : "docker pull piyushmishradocker/financer:latest"
